@@ -1,0 +1,20 @@
+<?php
+  $i=0;
+  /*
+  $config[$i] = array(
+    'hostname' => '127.0.0.1',
+    'port'     => 3306,
+    'username' => 'johnny5',
+    'password' => 'johnny5',
+    'database' => 'johnny5',
+  );
+  $i++;
+  
+  $config[$i] = array(
+    'hostname' => 'localhost',
+    'port'     => 3306,    
+    'username' => 'johnny5',
+    'password' => 'johnny5',
+    'database' => 'johnny5',
+  );
+  $i++;
